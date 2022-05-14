@@ -1,0 +1,8 @@
+14-05-2022
+My goal with this repository is among other things to create templates that you can use to create your own or your clients website, app, etc.
+with the a focus on the following:
+    -acccesibilitay
+    -cross-browser functionality with at least the major browsers
+
+later i want to create a light-ish framework with thing i use the most.
+for example:row, col, navmenu's
